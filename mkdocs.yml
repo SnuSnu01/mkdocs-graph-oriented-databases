@@ -32,10 +32,10 @@ extra:
       link: https://github.com/SnuSnu01
   alternate:
     - name: English
-      link: /en/
+      link: mkdocs-graph-oriented-databases/en/
       lang: en
     - name: Deutsch
-      link: /de/
+      link: mkdocs-graph-oriented-databases/de/
       lang: de
 
 markdown_extensions:
