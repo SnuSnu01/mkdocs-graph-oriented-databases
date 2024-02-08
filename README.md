@@ -1,0 +1,1 @@
+# mkdocs-graphically-oriented-database
