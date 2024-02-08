@@ -30,13 +30,6 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/SnuSnu01
-  alternate:
-    - name: English
-      link: mkdocs-graph-oriented-databases/en/
-      lang: en
-    - name: Deutsch
-      link: mkdocs-graph-oriented-databases/de/
-      lang: de
 
 markdown_extensions:
   - pymdownx.highlight:
